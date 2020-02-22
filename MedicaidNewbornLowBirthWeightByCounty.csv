@@ -1,0 +1,123 @@
+Year,County,Burrough,Region,Upstate,LowBirthWeightNewborns,NewbornPopulation
+2012,Albany,NA,Capital District,TRUE,84,1150
+2013,Albany,NA,Capital District,TRUE,101,1191
+2012,Allegany,NA,Western New York,TRUE,15,189
+2013,Allegany,NA,Western New York,TRUE,14,209
+2012,Bronx,The Bronx,New York City,FALSE,1159,14408
+2013,Bronx,The Bronx,New York City,FALSE,1174,14434
+2012,Broome,NA,Southern Tier,TRUE,72,1021
+2013,Broome,NA,Southern Tier,TRUE,70,1006
+2012,Cattaraugus,NA,Western New York,TRUE,17,447
+2013,Cattaraugus,NA,Western New York,TRUE,20,414
+2012,Cayuga,NA,Central New York,TRUE,23,401
+2013,Cayuga,NA,Central New York,TRUE,22,341
+2012,Chautauqua,NA,Western New York,TRUE,37,794
+2013,Chautauqua,NA,Western New York,TRUE,30,716
+2012,Chemung,NA,Southern Tier,TRUE,22,529
+2013,Chemung,NA,Southern Tier,TRUE,39,465
+2012,Chenango,NA,Southern Tier,TRUE,21,232
+2013,Chenango,NA,Southern Tier,TRUE,12,228
+2012,Clinton,NA,North Country,TRUE,26,345
+2013,Clinton,NA,North Country,TRUE,29,330
+2012,Columbia,NA,Capital District,TRUE,17,231
+2013,Columbia,NA,Capital District,TRUE,11,236
+2012,Cortland,NA,Central New York,TRUE,11,268
+2013,Cortland,NA,Central New York,TRUE,17,247
+2012,Delaware,NA,Southern Tier,TRUE,10,180
+2013,Delaware,NA,Southern Tier,TRUE,9,167
+2012,Dutchess,NA,Hudson Valley,FALSE,47,822
+2013,Dutchess,NA,Hudson Valley,FALSE,64,843
+2012,Erie,NA,Western New York,TRUE,366,4330
+2013,Erie,NA,Western New York,TRUE,376,4369
+2012,Essex,NA,North Country,TRUE,6,133
+2013,Essex,NA,North Country,TRUE,11,117
+2012,Franklin,NA,North Country,TRUE,13,255
+2013,Franklin,NA,North Country,TRUE,23,237
+2012,Fulton,NA,Mohawk Valley,FALSE,15,289
+2013,Fulton,NA,Mohawk Valley,FALSE,31,289
+2012,Genesee,NA,Finger Lakes,TRUE,15,212
+2013,Genesee,NA,Finger Lakes,TRUE,12,221
+2012,Greene,NA,Capital District,TRUE,18,191
+2013,Greene,NA,Capital District,TRUE,11,194
+2012,Hamilton/Schuyler,NA,North Country,TRUE,4,96
+2013,Hamilton/Schuyler,NA,North Country,TRUE,7,80
+2012,Herkimer,NA,Mohawk Valley,FALSE,20,333
+2013,Herkimer,NA,Mohawk Valley,FALSE,18,342
+2012,Jefferson,NA,North Country,TRUE,38,559
+2013,Jefferson,NA,North Country,TRUE,36,563
+2012,Kings,Brooklyn,New York City,FALSE,1583,24679
+2013,Kings,Brooklyn,New York City,FALSE,1482,23232
+2012,Lewis,NA,North Country,TRUE,15,135
+2013,Lewis,NA,North Country,TRUE,7,139
+2012,Livingston,NA,Finger Lakes,TRUE,16,194
+2013,Livingston,NA,Finger Lakes,TRUE,11,204
+2012,Madison,NA,Central New York,TRUE,18,336
+2013,Madison,NA,Central New York,TRUE,24,294
+2012,Monroe,NA,Finger Lakes,TRUE,350,3549
+2013,Monroe,NA,Finger Lakes,TRUE,318,3491
+2012,Montgomery,NA,Mohawk Valley,FALSE,12,216
+2013,Montgomery,NA,Mohawk Valley,FALSE,12,247
+2012,Nassau,NA,Long Island,FALSE,214,3226
+2013,Nassau,NA,Long Island,FALSE,289,3931
+2012,New York,Manhattan,New York City,FALSE,444,6177
+2013,New York,Manhattan,New York City,FALSE,446,5823
+2012,Niagara,NA,Western New York,TRUE,94,988
+2013,Niagara,NA,Western New York,TRUE,68,1023
+2012,Oneida,NA,Mohawk Valley,FALSE,123,1469
+2013,Oneida,NA,Mohawk Valley,FALSE,110,1473
+2012,Onondaga,NA,Central New York,TRUE,145,2420
+2013,Onondaga,NA,Central New York,TRUE,168,2303
+2012,Ontario,NA,Finger Lakes,TRUE,28,405
+2013,Ontario,NA,Finger Lakes,TRUE,23,372
+2012,Orange,NA,Hudson Valley,FALSE,108,1887
+2013,Orange,NA,Hudson Valley,FALSE,116,2080
+2012,Orleans,NA,Finger Lakes,TRUE,5,178
+2013,Orleans,NA,Finger Lakes,TRUE,12,201
+2012,Oswego,NA,Central New York,TRUE,51,779
+2013,Oswego,NA,Central New York,TRUE,55,724
+2012,Otsego,NA,Mohawk Valley,FALSE,12,236
+2013,Otsego,NA,Mohawk Valley,FALSE,4,194
+2012,Putnam,NA,Hudson Valley,FALSE,19,158
+2013,Putnam,NA,Hudson Valley,FALSE,13,170
+2012,Queens,Queens,New York City,FALSE,957,15715
+2013,Queens,Queens,New York City,FALSE,1029,15882
+2012,Rensselaer,NA,Capital District,TRUE,38,647
+2013,Rensselaer,NA,Capital District,TRUE,45,739
+2012,Richmond,Staten Island,New York City,FALSE,123,1982
+2013,Richmond,Staten Island,New York City,FALSE,155,1936
+2012,Rockland,NA,Hudson Valley,FALSE,80,2693
+2013,Rockland,NA,Hudson Valley,FALSE,108,2696
+2012,Saratoga,NA,Capital District,TRUE,30,532
+2013,Saratoga,NA,Capital District,TRUE,32,525
+2012,Schenectady,NA,Capital District,TRUE,54,772
+2013,Schenectady,NA,Capital District,TRUE,43,723
+2012,Schoharie,NA,Mohawk Valley,FALSE,5,91
+2013,Schoharie,NA,Mohawk Valley,FALSE,9,116
+2012,Seneca,NA,Finger Lakes,TRUE,12,128
+2013,Seneca,NA,Finger Lakes,TRUE,11,131
+2012,St Lawrence,NA,North Country,TRUE,31,521
+2013,St Lawrence,NA,North Country,TRUE,35,492
+2012,Steuben,NA,Southern Tier,TRUE,35,494
+2013,Steuben,NA,Southern Tier,TRUE,34,433
+2012,Suffolk,NA,Long Island,FALSE,352,5131
+2013,Suffolk,NA,Long Island,FALSE,355,5557
+2012,Sullivan,NA,Hudson Valley,FALSE,28,486
+2013,Sullivan,NA,Hudson Valley,FALSE,40,480
+2012,Tioga,NA,Southern Tier,TRUE,10,182
+2013,Tioga,NA,Southern Tier,TRUE,12,191
+2012,Tompkins,NA,Southern Tier,TRUE,20,308
+2013,Tompkins,NA,Southern Tier,TRUE,17,267
+2012,Ulster,NA,Hudson Valley,FALSE,42,674
+2013,Ulster,NA,Hudson Valley,FALSE,46,616
+2012,Warren,NA,Capital District,TRUE,9,213
+2013,Warren,NA,Capital District,TRUE,17,254
+2012,Washington,NA,Capital District,TRUE,20,180
+2013,Washington,NA,Capital District,TRUE,5,188
+2012,Wayne,NA,Finger Lakes,TRUE,27,358
+2013,Wayne,NA,Finger Lakes,TRUE,38,400
+2012,Westchester,NA,Hudson Valley,FALSE,222,3007
+2013,Westchester,NA,Hudson Valley,FALSE,181,3603
+2012,Wyoming,NA,Finger Lakes,TRUE,15,159
+2013,Wyoming,NA,Finger Lakes,TRUE,7,145
+2012,Yates,NA,Finger Lakes,TRUE,9,106
+2013,Yates,NA,Finger Lakes,TRUE,4,88
